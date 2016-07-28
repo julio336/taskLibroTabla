@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DFF3A1EB88B31228A336CC402EB6B258CAB98F1D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B84DBA8D7D97D88D67D34BB84E57BDDDB5F0C120" : 0,
+    "DFF3A1EB88B31228A336CC402EB6B258CAB98F1D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D80CD697-842F-4F38-A243-375528E21379",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B84DBA8D7D97D88D67D34BB84E57BDDDB5F0C120" : "",
+    "DFF3A1EB88B31228A336CC402EB6B258CAB98F1D" : "taskLibroTablaVista\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "taskLibroTablaVista",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "taskLibroTablaVista.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:julio336\/bitcoinSummary.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B84DBA8D7D97D88D67D34BB84E57BDDDB5F0C120"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:julio336\/taskLibroTabla.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DFF3A1EB88B31228A336CC402EB6B258CAB98F1D"
+    }
+  ]
+}

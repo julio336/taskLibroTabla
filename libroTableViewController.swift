@@ -59,7 +59,7 @@ class libroTableViewController: UITableViewController {
         //return mislibros.count
         return contarLibros
     }
-    
+
     
     override func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCellWithIdentifier("IdentCelda", forIndexPath: indexPath)

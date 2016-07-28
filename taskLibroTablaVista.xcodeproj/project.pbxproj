@@ -10,13 +10,13 @@
 		380B44CA1D38733300BEAF8C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 380B44C91D38733300BEAF8C /* AppDelegate.swift */; };
 		380B44CC1D38733300BEAF8C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 380B44CB1D38733300BEAF8C /* ViewController.swift */; };
 		380B44CF1D38733400BEAF8C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 380B44CD1D38733400BEAF8C /* Main.storyboard */; };
-		380B44D21D38733400BEAF8C /* taskLibroTablaVista.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 380B44D01D38733400BEAF8C /* taskLibroTablaVista.xcdatamodeld */; };
 		380B44D41D38733500BEAF8C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 380B44D31D38733500BEAF8C /* Assets.xcassets */; };
 		380B44D71D38733500BEAF8C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 380B44D51D38733500BEAF8C /* LaunchScreen.storyboard */; };
 		380B44DF1D3873FE00BEAF8C /* book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 380B44DE1D3873FE00BEAF8C /* book.swift */; };
 		380B44E11D38746D00BEAF8C /* libroTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 380B44E01D38746D00BEAF8C /* libroTableViewController.swift */; };
 		380B44E31D38769E00BEAF8C /* showBookViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 380B44E21D38769E00BEAF8C /* showBookViewController.swift */; };
 		380B44E51D38977900BEAF8C /* DetallesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 380B44E41D38977900BEAF8C /* DetallesViewController.swift */; };
+		3893206F1D49A97B00BAA3F5 /* taskLibroTablaVista.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3893206D1D49A97B00BAA3F5 /* taskLibroTablaVista.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,7 +24,6 @@
 		380B44C91D38733300BEAF8C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		380B44CB1D38733300BEAF8C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		380B44CE1D38733400BEAF8C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		380B44D11D38733400BEAF8C /* taskLibroTablaVista.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = taskLibroTablaVista.xcdatamodel; sourceTree = "<group>"; };
 		380B44D31D38733500BEAF8C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		380B44D61D38733500BEAF8C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		380B44D81D38733600BEAF8C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -32,6 +31,7 @@
 		380B44E01D38746D00BEAF8C /* libroTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = libroTableViewController.swift; sourceTree = "<group>"; };
 		380B44E21D38769E00BEAF8C /* showBookViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = showBookViewController.swift; sourceTree = "<group>"; };
 		380B44E41D38977900BEAF8C /* DetallesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetallesViewController.swift; sourceTree = "<group>"; };
+		3893206E1D49A97B00BAA3F5 /* taskLibroTablaVista.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = taskLibroTablaVista.xcdatamodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,11 +70,11 @@
 				380B44D31D38733500BEAF8C /* Assets.xcassets */,
 				380B44D51D38733500BEAF8C /* LaunchScreen.storyboard */,
 				380B44D81D38733600BEAF8C /* Info.plist */,
-				380B44D01D38733400BEAF8C /* taskLibroTablaVista.xcdatamodeld */,
 				380B44DE1D3873FE00BEAF8C /* book.swift */,
 				380B44E01D38746D00BEAF8C /* libroTableViewController.swift */,
 				380B44E21D38769E00BEAF8C /* showBookViewController.swift */,
 				380B44E41D38977900BEAF8C /* DetallesViewController.swift */,
+				3893206D1D49A97B00BAA3F5 /* taskLibroTablaVista.xcdatamodeld */,
 			);
 			path = taskLibroTablaVista;
 			sourceTree = "<group>";
@@ -153,11 +153,11 @@
 			files = (
 				380B44E31D38769E00BEAF8C /* showBookViewController.swift in Sources */,
 				380B44DF1D3873FE00BEAF8C /* book.swift in Sources */,
+				3893206F1D49A97B00BAA3F5 /* taskLibroTablaVista.xcdatamodeld in Sources */,
 				380B44E51D38977900BEAF8C /* DetallesViewController.swift in Sources */,
 				380B44CC1D38733300BEAF8C /* ViewController.swift in Sources */,
 				380B44CA1D38733300BEAF8C /* AppDelegate.swift in Sources */,
 				380B44E11D38746D00BEAF8C /* libroTableViewController.swift in Sources */,
-				380B44D21D38733400BEAF8C /* taskLibroTablaVista.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,6 +272,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = taskLibroTablaVista/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MOMC_NO_DELETE_RULE_WARNINGS = YES;
+				MOMC_NO_INVERSE_RELATIONSHIP_WARNINGS = YES;
+				MOMC_NO_MAX_PROPERTY_COUNT_WARNINGS = YES;
+				MOMC_NO_WARNINGS = YES;
+				MOMC_SUPPRESS_INVERSE_TRANSIENT_ERROR = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = com.apps.taskLibroTablaVista;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -283,6 +288,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = taskLibroTablaVista/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MOMC_NO_DELETE_RULE_WARNINGS = YES;
+				MOMC_NO_INVERSE_RELATIONSHIP_WARNINGS = YES;
+				MOMC_NO_MAX_PROPERTY_COUNT_WARNINGS = YES;
+				MOMC_NO_WARNINGS = YES;
+				MOMC_SUPPRESS_INVERSE_TRANSIENT_ERROR = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = com.apps.taskLibroTablaVista;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -307,16 +317,17 @@
 				380B44DD1D38733600BEAF8C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		380B44D01D38733400BEAF8C /* taskLibroTablaVista.xcdatamodeld */ = {
+		3893206D1D49A97B00BAA3F5 /* taskLibroTablaVista.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				380B44D11D38733400BEAF8C /* taskLibroTablaVista.xcdatamodel */,
+				3893206E1D49A97B00BAA3F5 /* taskLibroTablaVista.xcdatamodel */,
 			);
-			currentVersion = 380B44D11D38733400BEAF8C /* taskLibroTablaVista.xcdatamodel */;
+			currentVersion = 3893206E1D49A97B00BAA3F5 /* taskLibroTablaVista.xcdatamodel */;
 			path = taskLibroTablaVista.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;

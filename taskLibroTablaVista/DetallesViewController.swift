@@ -14,6 +14,7 @@ class DetallesViewController: UIViewController {
     
     var elLibro: book!
     
+    
     @IBOutlet weak var tituloTextView: UITextField!
 
     @IBOutlet weak var autorTextView: UITextField!
@@ -26,7 +27,6 @@ class DetallesViewController: UIViewController {
         // Do any additional setup after loading the view.
         let tituloz = elLibro.titulo + elLibro.autores
         print(tituloz)
-        
         tituloTextView.text = elLibro.titulo
         autorTextView.text = elLibro.autores
         portadaImageView.image = elLibro.portada
